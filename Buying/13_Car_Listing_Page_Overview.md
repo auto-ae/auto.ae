@@ -66,11 +66,11 @@ Located on the right (desktop) or bottom (mobile). Shows:
 *   **Skipping the Options List:** Below the description, there is a long checklist of features (e.g., "360 Camera", "Heads Up Display"). Check this to confirm if the car has the specific tech you need.
 
 ## Related pages
-*   [Buying: How to Contact a Seller](14_How_to_Contact_a_Seller)
-*   [Buying: VIN and History Basics](16_VIN_and_History_Basics)
+*   [Buying: How to Contact a Seller](14_How_to_Contact_a_Seller.md)
+*   [Buying: VIN and History Basics](16_VIN_and_History_Basics.md)
 
 ## Next step
-*   [Learn how to contact the seller](14_How_to_Contact_a_Seller)
+*   [Learn how to contact the seller](14_How_to_Contact_a_Seller.md)
 
 ---
 *Last updated: January 2026*

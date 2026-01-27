@@ -63,19 +63,19 @@ Arrange a meeting to inspect the car or sign the rental agreement.
 ## Important tips
 *   **No Registration Needed to Browse:** You can search and view phone numbers without creating an account.
 *   **Register to Offer:** To list your own car or save favorites, you must register (it takes 1 minute via phone number).
-*   **Safety First:** Never send money online without seeing the car. Read our [Safety Guide](../Safety/75_Common_Scams) for more.
+*   **Safety First:** Never send money online without seeing the car. Read our [Safety Guide](../Safety/75_Common_Scams.md) for more.
 
 ## Useful links
 *   [Search Cars for Sale](https://auto.ae/sale)
 *   [List Your Car](https://auto.ae/sell)
 
 ## Related pages
-*   [Platform: What is AUTO.AE](1_What_is_AUTO_AE)
-*   [Buying: How to Contact a Seller](../Buying/14_How_to_Contact_a_Seller)
-*   [Safety: Common Scams](../Safety/75_Common_Scams)
+*   [Platform: What is AUTO.AE](1_What_is_AUTO_AE.md)
+*   [Buying: How to Contact a Seller](../Buying/14_How_to_Contact_a_Seller.md)
+*   [Safety: Common Scams](../Safety/75_Common_Scams.md)
 
 ## Next step
-*   [Learn about the different Marketplaces (Buy vs Rent vs Plates)](3_AUTO_AE_Marketplace_Overview)
+*   [Learn about the different Marketplaces (Buy vs Rent vs Plates)](3_AUTO_AE_Marketplace_Overview.md)
 
 ---
 *Last updated: January 2026*

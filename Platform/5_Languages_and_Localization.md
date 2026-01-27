@@ -61,11 +61,11 @@ The official language of the GCC.
 *   **Ignoring Chat Language:** If a buyer messages you in English, try to reply in English (or use a translation tool).
 
 ## Related pages
-*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries)
-*   [Listings Quality: Writing Descriptions](../Listings_Quality/67_Writing_Descriptions)
+*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)
+*   [Listings Quality: Writing Descriptions](../Listings_Quality/67_Writing_Descriptions.md)
 
 ## Next step
-*   [Understand Currencies and Price Display](6_Currencies_and_Price_Display)
+*   [Understand Currencies and Price Display](6_Currencies_and_Price_Display.md)
 
 ---
 *Last updated: January 2026*

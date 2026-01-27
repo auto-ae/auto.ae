@@ -58,11 +58,11 @@ If you are viewing a car located in Dubai (priced in AED) but you have selected 
 *   **Forgetting VAT:** If buying from a showroom for export, you might be able to claim VAT back, but sticking to the listed price calculation is safer for budgeting.
 
 ## Related pages
-*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries)
-*   [Buying: Deposits and Payments](../Buying/20_Deposits_and_Payments)
+*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)
+*   [Buying: Deposits and Payments](../Buying/20_Deposits_and_Payments.md)
 
 ## Next step
-*   [Explore the AUTO.AE Mobile Apps](7_AUTO_AE_Mobile_Apps_Overview)
+*   [Explore the AUTO.AE Mobile Apps](7_AUTO_AE_Mobile_Apps_Overview.md)
 
 ---
 *Last updated: January 2026*

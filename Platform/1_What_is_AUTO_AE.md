@@ -60,12 +60,12 @@ Professional tools for dealerships to manage inventory, track leads, and build a
 *   [Showrooms Directory](https://auto.ae/showrooms)
 
 ## Related pages
-*   [Platform: How AUTO.AE Works](2_How_AUTO_AE_Works)
-*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries)
-*   [Platform: AUTO.AE Mobile Apps Overview](7_AUTO_AE_Mobile_Apps_Overview)
+*   [Platform: How AUTO.AE Works](2_How_AUTO_AE_Works.md)
+*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)
+*   [Platform: AUTO.AE Mobile Apps Overview](7_AUTO_AE_Mobile_Apps_Overview.md)
 
 ## Next step
-*   [Read about how the platform ecosystem works](2_How_AUTO_AE_Works)
+*   [Read about how the platform ecosystem works](2_How_AUTO_AE_Works.md)
 
 ---
 *Last updated: January 2026*

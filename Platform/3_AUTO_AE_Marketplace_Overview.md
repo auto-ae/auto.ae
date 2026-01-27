@@ -78,12 +78,12 @@ A niche, high-value marketplace for trading car license plates. This is unique t
 *   [Search for Plates](https://auto.ae/vrp)
 
 ## Related pages
-*   [Buying: How to Search Cars for Sale](../Buying/11_How_to_Search_Cars_for_Sale)
-*   [Renting: How Car Rentals Work](../Renting/23_How_Car_Rentals_Work)
-*   [VIP Plates: What Are VIP Plates](../VIP_Plates/35_What_Are_VIP_Plates)
+*   [Buying: How to Search Cars for Sale](../Buying/11_How_to_Search_Cars_for_Sale.md)
+*   [Renting: How Car Rentals Work](../Renting/23_How_Car_Rentals_Work.md)
+*   [VIP Plates: What Are VIP Plates](../VIP_Plates/35_What_Are_VIP_Plates.md)
 
 ## Next step
-*   [Check which countries are supported](4_Supported_GCC_Countries)
+*   [Check which countries are supported](4_Supported_GCC_Countries.md)
 
 ---
 *Last updated: January 2026*
