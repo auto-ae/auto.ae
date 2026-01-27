@@ -48,7 +48,7 @@ Click on any car card to open the full listing page.
 
 ## Visual example
 
-![Search Results Page](../assets/search_page_mockup.png)
+![Search Results Page](../assets/brands_list.png)
 *Figure 1: The main search interface showing the keyword bar and sorting options.*
 
 ## Important tips

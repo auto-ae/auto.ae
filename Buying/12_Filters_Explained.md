@@ -45,7 +45,7 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 
 ## Visual example
 
-![Advanced Filters Sidebar](../assets/filters_sidebar_mockup.png)
+![Advanced Filters Panel](../assets/filters_panel.png)
 *Figure 1: The sidebar allows you to combine multiple filters (e.g., SUV + GCC Specs + Under 100k km).*
 
 ## Important tips

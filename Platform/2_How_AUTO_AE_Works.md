@@ -34,6 +34,9 @@ Start by selecting your main goal from the homepage:
 *   **Rent** if you need a temporary vehicle.
 *   **VIP Plates** if you are looking for a special license number.
 
+![Navigation Header](../assets/nav_header.png)
+*Figure 1: The main navigation bar allows quick access to all marketplaces.*
+
 ### 2. Search and Filter
 Use the detailed filters to narrow down thousands of options.
 *   *For Cars:* Filter by Make, Model, Year, Price, Mileage, and Specs (GCC/Import).
@@ -55,10 +58,7 @@ Once you find a match, use the contact buttons:
 Arrange a meeting to inspect the car or sign the rental agreement.
 *   *Note:* The final payment and contract signing happen offline between you and the seller/dealer. AUTO.AE facilitates the connection but does not process the bank transfer for car sales.
 
-## Visual example
 
-![Contact Seller Buttons](../assets/contact_buttons_mockup.png)
-*Figure 1: The contact options available on every listing: Call, WhatsApp, and Chat.*
 
 ## Important tips
 *   **No Registration Needed to Browse:** You can search and view phone numbers without creating an account.
