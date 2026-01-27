@@ -42,8 +42,6 @@ Assuming the car is fine because no warning lights are on.
 
 ## Visual example
 
-![Hidden Costs Breakdown Chart](../assets/hidden_costs_chart_mockup.png)
-*Figure 1: The total cost of ownership is always higher than the sticker price.*
 
 ## Important tips
 *   **Sleep on It:** Never sign a deal under pressure. If the seller says "I have another buyer coming in 10 minutes", let them come.

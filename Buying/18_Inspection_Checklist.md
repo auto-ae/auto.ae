@@ -47,8 +47,6 @@ You should never buy a used car without inspecting it in person (or hiring a pro
 
 ## Visual example
 
-![Tire Date Code Example](../assets/tire_date_code_mockup.png)
-*Figure 1: How to read the 4-digit date code on a tire sidewall.*
 
 ## Important tips
 *   **Bring a Flashlight:** Even in daylight, looking under the car or into the engine bay requires light.

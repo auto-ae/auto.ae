@@ -45,8 +45,6 @@ Professional tools for dealerships to manage inventory, track leads, and build a
 
 ## Visual example
 
-![AUTO.AE Homepage Overview](../assets/home_screenshot.png)
-*Figure 1: The AUTO.AE homepage showing the main navigation tabs: Buy, Rent, VIP Plates, and Showrooms.*
 
 ## Important tips
 *   **Use the App:** The mobile app often sends push notifications for price drops on your favorite cars.

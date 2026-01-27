@@ -49,8 +49,6 @@ The official language of the GCC.
 
 ## Visual example
 
-![Language Switcher in Header](../assets/language_toggle_mockup.png)
-*Figure 1: The 'Ar/En' toggle allows instant switching of the interface language.*
 
 ## Important tips
 *   **Automatic Translation:** When you select features like "Bluetooth" or "Cruise Control" while creating a listing in English, an Arabic user will see the Arabic equivalent automatically. You do not need to translate these checkboxes.

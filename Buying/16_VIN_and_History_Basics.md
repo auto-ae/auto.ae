@@ -43,8 +43,6 @@ If the car is "North American Specs":
 
 ## Visual example
 
-![VIN Location on Dashboard](../assets/vin_location_mockup.png)
-*Figure 1: Common location of the VIN plate.*
 
 ## Important tips
 *   **"Clean Title" Trap:** A car can have a "Clean Title" in the US but still have accidents. Read the full report.

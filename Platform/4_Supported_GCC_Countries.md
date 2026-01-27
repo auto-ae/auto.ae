@@ -45,8 +45,6 @@ By default, the site detects your IP. To see cars in another country:
 
 ## Visual example
 
-![Country Selector Dropdown](../assets/country_flag_selector_mockup.png)
-*Figure 1: Use the country selector in the header to browse international inventory.*
 
 ## Important tips
 *   **Physical Presence:** Most sellers require you to be physically present to inspect the car, even if you are buying for export.

@@ -45,8 +45,6 @@ The mobile app includes everything from the website, plus:
 
 ## Visual example
 
-![Mobile App Interface showing Dark Mode](../assets/mobile_app_mockup.png)
-*Figure 1: The AUTO.AE mobile app offers a sleek, fast interface optimized for thumbs.*
 
 ## Important tips
 *   **Update Regularly:** We release updates every 2 weeks with bug fixes and new features. Keep automatic updates on.

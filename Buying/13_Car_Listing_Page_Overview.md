@@ -55,8 +55,6 @@ Located on the right (desktop) or bottom (mobile). Shows:
 
 ## Visual example
 
-![Detailed Listing Page Diagram](../assets/listing_page_diagram_mockup.png)
-*Figure 1: Breakdown of the listing page elements.*
 
 ## Important tips
 *   **Check the Map:** The bottom of the page usually shows a map pin. Confirm if the car is in a convenient location before calling.

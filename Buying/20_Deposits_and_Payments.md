@@ -37,8 +37,6 @@ The moment money changes hands is the moment most scams happen. Understanding ho
 
 ## Visual example
 
-![Receipt Template Mockup](../assets/receipt_template_mockup.png)
-*Figure 1: Always ask for a signed receipt for any cash handed over.*
 
 ## Important tips
 *   **Meet at the RTA:** The safest place to pay is at the government registration center. Hand over the cash exactly when the officer asks "Do you agree to transfer?".

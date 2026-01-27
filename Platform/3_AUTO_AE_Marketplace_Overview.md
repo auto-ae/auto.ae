@@ -60,8 +60,6 @@ A niche, high-value marketplace for trading car license plates. This is unique t
 
 ## Visual example
 
-![Marketplace Selection Tabs](../assets/market_tabs_mockup.png)
-*Figure 1: The clear separation of verticals allows users to switch contexts instantly.*
 
 ## Important tips
 *   **Global Login:** Your single user account works for all three marketplaces. You can sell a car and buy a plate with the same profile.

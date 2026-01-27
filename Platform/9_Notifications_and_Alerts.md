@@ -43,8 +43,6 @@ Perfect for when a car is slightly over your budget.
 
 ## Visual example
 
-![Notification Settings Screen](../assets/notifications_settings_mockup.png)
-*Figure 1: Customizing which alerts you want to receive in the App Settings.*
 
 ## How to Configure
 You can manage your preferences to avoid spam.

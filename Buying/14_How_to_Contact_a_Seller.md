@@ -43,8 +43,6 @@ Best for initial inquiries if you don't want to share your number yet.
 
 ## Visual example
 
-![Contact Buttons on Mobile](../assets/contact_methods_mockup.png)
-*Figure 1: The three primary contact buttons.*
 
 ## Important tips
 *   **Be Polite:** A simple "Is the car available?" is better than just sending a lowball offer "50k?" working as a first message.

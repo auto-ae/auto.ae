@@ -42,8 +42,6 @@ For dealerships wanting to join AUTO.AE or banner advertising inquiries.
 
 ## Visual example
 
-![Help Center and Contact Form](../assets/contact_us_mockup.png)
-*Figure 1: The correct way to submit a support ticket via the App Settings.*
 
 ## Office Location
 While AUTO.AE is a digital-first platform, our headquarters are located in Dubai.

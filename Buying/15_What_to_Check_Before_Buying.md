@@ -45,8 +45,6 @@ Buying a car is a major commitment, and doing your due diligence online can save
 
 ## Visual example
 
-![Checklist Interface](../assets/checklist_mockup.png)
-*Figure 1: Use the 'Save' feature to shortlist cars that pass your initial visual check.*
 
 ## Important tips
 *   **Ask for the VIN:** If the VIN is not listed, message the seller: "Can you share the chassis number?". If they refuse, walk away.

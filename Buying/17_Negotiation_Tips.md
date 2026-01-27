@@ -48,8 +48,6 @@ If the seller is stuck on a high price, politely decline and wait. If they are m
 
 ## Visual example
 
-![Chat Negotiation Mockup](../assets/negotiation_chat_mockup.png)
-*Figure 1: A respectful negotiation conversation in the chat.*
 
 ## Important tips
 *   **Cash is King:** Sellers prefer cash buyers over bank finance buyers because it's faster. Mention "I have cash ready" to get a better deal.

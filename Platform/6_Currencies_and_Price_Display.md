@@ -46,8 +46,6 @@ If you are viewing a car located in Dubai (priced in AED) but you have selected 
 
 ## Visual example
 
-![Price Display with VAT notes](../assets/price_display_mockup.png)
-*Figure 1: Listing price showing the amount in AED and a secondary estimate in USD.*
 
 ## Important tips
 *   **Negotiate in Local Currency:** If the seller is in Dubai, negotiate in AED. Trying to fix a price in USD might lead to confusion due to bank exchange rates.

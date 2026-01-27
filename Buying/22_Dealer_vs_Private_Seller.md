@@ -37,8 +37,6 @@ One of the first choices you make on **AUTO.AE** is whether to buy from a busine
 
 ## Visual example
 
-![Dealer Badge vs Private Badge](../assets/seller_type_badge_mockup.png)
-*Figure 1: Look for the "Verified Showroom" badge on the listing card.*
 
 ## Important tips
 *   **For First-Time Buyers:** A Showroom is safer because they handle the paperwork and often provide a warranty.

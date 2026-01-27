@@ -36,8 +36,6 @@ AUTO.AE provides two powerful ways to access the marketplace: the responsive **W
 
 ## Visual example
 
-![Split screen showing Desktop vs Mobile App view](../assets/platform_comparison_mockup.png)
-*Figure 1: The Desktop view (left) is great for data heavy tasks, while the App (right) is streamlined for action.*
 
 ## When to use which
 

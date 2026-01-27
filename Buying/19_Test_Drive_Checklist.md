@@ -42,8 +42,6 @@ A car might pass a visual inspection but fail on the road. The test drive is you
 
 ## Visual example
 
-![Dashboard Temperature Gauge](../assets/temp_gauge_mockup.png)
-*Figure 1: The temperature gauge should stay exactly in the middle explicitly, never higher.*
 
 ## Important tips
 *   **Drive it Cold:** Ensure the engine is cold when you start. Many problems disappear once the oil is warm.
