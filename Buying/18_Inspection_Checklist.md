@@ -45,9 +45,6 @@ You should never buy a used car without inspecting it in person (or hiring a pro
 *   [ ] **Cold Start:** Ask the seller not to warm up the car before you arrive. Listen for rattling noises when starting cold.
 *   [ ] **Smoke:** Look at the exhaust. Blue smoke = oil burning. White smoke = coolant leak.
 
-## Visual example
-
-
 ## Important tips
 *   **Bring a Flashlight:** Even in daylight, looking under the car or into the engine bay requires light.
 *   **Meet in Public:** Always inspect the car in a safe, public location or at the seller's home.

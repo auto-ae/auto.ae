@@ -40,9 +40,6 @@ A car might pass a visual inspection but fail on the road. The test drive is you
 ### 4. Cooling Test
 *   After the drive, leave the car running for 5 minutes. Watch the temperature gauge. Does it creep up? (Overheating is common in GCC summers).
 
-## Visual example
-
-
 ## Important tips
 *   **Drive it Cold:** Ensure the engine is cold when you start. Many problems disappear once the oil is warm.
 *   **Turn off the Radio:** Keep the cabin silent to hear mechanical noises.

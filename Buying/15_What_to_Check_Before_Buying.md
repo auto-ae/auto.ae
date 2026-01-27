@@ -43,9 +43,6 @@ Buying a car is a major commitment, and doing your due diligence online can save
 *   "Perfect condition, lady driven" is a cliché.
 *   Look for specific details: "Serviced at Agency last month", "New tires installed in June". Specifics = Trust.
 
-## Visual example
-
-
 ## Important tips
 *   **Ask for the VIN:** If the VIN is not listed, message the seller: "Can you share the chassis number?". If they refuse, walk away.
 *   **Google the Phone Number:** Search the seller's number. Does it show up on other forums or complaint sites?

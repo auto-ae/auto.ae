@@ -41,9 +41,6 @@ Best for initial inquiries if you don't want to share your number yet.
 *   **Pros:** Keeps your privacy.
 *   **How:** Type your message in the chat box on the listing page. You will get a push notification when they reply.
 
-## Visual example
-
-
 ## Important tips
 *   **Be Polite:** A simple "Is the car available?" is better than just sending a lowball offer "50k?" working as a first message.
 *   **Check Business Hours:** If contacting a specific Showroom, check their hours. They might not answer WhatsApp at 11 PM.

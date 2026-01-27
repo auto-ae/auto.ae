@@ -35,9 +35,6 @@ One of the first choices you make on **AUTO.AE** is whether to buy from a busine
 | **Trust** | ⚠️ High risk of hidden issues | ✅ Reputation to maintain |
 | **Trade-In** | ❌ No | ✅ Can take your old car |
 
-## Visual example
-
-
 ## Important tips
 *   **For First-Time Buyers:** A Showroom is safer because they handle the paperwork and often provide a warranty.
 *   **For Bargain Hunters:** Private sellers offer the best deals, but you must invest in a comprehensive pre-purchase inspection.

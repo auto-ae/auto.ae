@@ -47,9 +47,6 @@ The official language of the GCC.
 2.  Tap on **Language**.
 3.  Select your preference. The app will restart to apply the new layout.
 
-## Visual example
-
-
 ## Important tips
 *   **Automatic Translation:** When you select features like "Bluetooth" or "Cruise Control" while creating a listing in English, an Arabic user will see the Arabic equivalent automatically. You do not need to translate these checkboxes.
 *   **Description Field:** The free-text description is **NOT** auto-translated. We recommend writing the description in English, as it is the most widely understood common language in the UAE car market, or writing it in both languages if possible.

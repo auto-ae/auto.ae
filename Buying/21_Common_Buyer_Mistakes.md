@@ -40,9 +40,6 @@ Budgeting exactly 50,000 AED for a 50,000 AED car.
 Assuming the car is fine because no warning lights are on.
 *   *Reality:* Unscrupulous sellers can disconnect the bulb for the "Check Engine" light or clear the codes temporarily. Always scan the OBD.
 
-## Visual example
-
-
 ## Important tips
 *   **Sleep on It:** Never sign a deal under pressure. If the seller says "I have another buyer coming in 10 minutes", let them come.
 *   **Check the Spare Key:** A replacement modern key can cost 2000 AED. Ask for both keys.

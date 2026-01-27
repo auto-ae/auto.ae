@@ -41,9 +41,6 @@ If the car is "North American Specs":
 *   **CARFAX or Autocheck:** You **MUST** purchase a report. It will show if the car was a taxi, police car, or flooded in a hurricane before coming to Dubai.
 *   *Tip:* Google the VIN. Often, you will find photos of the smashed car from the US auction house.
 
-## Visual example
-
-
 ## Important tips
 *   **"Clean Title" Trap:** A car can have a "Clean Title" in the US but still have accidents. Read the full report.
 *   **Japanese Imports:** These are harder to check as Japanese history reports are less detailed than US ones. Verify with a physical inspection.

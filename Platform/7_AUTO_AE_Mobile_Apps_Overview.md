@@ -43,9 +43,6 @@ The mobile app includes everything from the website, plus:
 *   **Android:** [Get it on Google Play](#)
 *   **Huawei:** [Explore it on AppGallery](#)
 
-## Visual example
-
-
 ## Important tips
 *   **Update Regularly:** We release updates every 2 weeks with bug fixes and new features. Keep automatic updates on.
 *   **Permissions:** Allow "Notifications" to get the most out of the buying experience. You can customize which alerts you receive in Settings.

@@ -43,9 +43,6 @@ By default, the site detects your IP. To see cars in another country:
 2.  Select the desired country.
 3.  The currency and listings will refresh to match that region.
 
-## Visual example
-
-
 ## Important tips
 *   **Physical Presence:** Most sellers require you to be physically present to inspect the car, even if you are buying for export.
 *   **Customs Duties:** Buying a car from a different GCC country usually involves customs procedures at the border (typically 5% duty + VAT, though rules vary).

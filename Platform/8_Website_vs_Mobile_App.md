@@ -34,9 +34,6 @@ AUTO.AE provides two powerful ways to access the marketplace: the responsive **W
 | **Dark Mode** | ❌ Browser dependent | ✅ Native support |
 | **Speed** | ⚠️ Depends on internet | ✅ Optimized caching |
 
-## Visual example
-
-
 ## When to use which
 
 ### Use the Website when:

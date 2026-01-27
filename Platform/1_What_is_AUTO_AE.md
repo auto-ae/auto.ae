@@ -43,9 +43,6 @@ A unique marketplace for trading prestigious license plates. Sellers can list pl
 ### 4. Showroom & Dealer Tools
 Professional tools for dealerships to manage inventory, track leads, and build a reputation page to attract more local buyers.
 
-## Visual example
-
-
 ## Important tips
 *   **Use the App:** The mobile app often sends push notifications for price drops on your favorite cars.
 *   **Check "Verified":** Look for the "Verified" badge on Showrooms to ensure you are dealing with a licensed business.

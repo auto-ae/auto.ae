@@ -41,9 +41,6 @@ Perfect for when a car is slightly over your budget.
 *   **New Messages:** When a seller or buyer replies to your inquiry.
 *   **Listing Status:** For sellers, alerts when your listing is approved or expires.
 
-## Visual example
-
-
 ## How to Configure
 You can manage your preferences to avoid spam.
 1.  Go to **Profile** > **Settings**.

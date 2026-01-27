@@ -58,9 +58,6 @@ A niche, high-value marketplace for trading car license plates. This is unique t
     *   **Code Search:** Filter by specific plate codes (e.g., "A", "AA").
     *   **Digit Count:** Quickly find 2-digit, 3-digit, or 4-digit plates.
 
-## Visual example
-
-
 ## Important tips
 *   **Global Login:** Your single user account works for all three marketplaces. You can sell a car and buy a plate with the same profile.
 *   **Separate Chats:** Messages are organized by listing, so you won't confuse a rental inquiry with a purchase negotiation.

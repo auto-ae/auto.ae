@@ -53,9 +53,6 @@ Located on the right (desktop) or bottom (mobile). Shows:
 *   Member since date.
 *   Link to view their other listings.
 
-## Visual example
-
-
 ## Important tips
 *   **Check the Map:** The bottom of the page usually shows a map pin. Confirm if the car is in a convenient location before calling.
 *   **Save for Later:** Use the "Heart" icon to save the car to your Garage.

@@ -40,9 +40,6 @@ If you suspect a scammer or a fake listing:
 For dealerships wanting to join AUTO.AE or banner advertising inquiries.
 *   **Email:** sales@auto.ae
 
-## Visual example
-
-
 ## Office Location
 While AUTO.AE is a digital-first platform, our headquarters are located in Dubai.
 *   **Address:** Dubai Internet City, Building 12, Dubai, UAE.

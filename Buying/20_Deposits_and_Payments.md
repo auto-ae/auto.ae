@@ -35,9 +35,6 @@ The moment money changes hands is the moment most scams happen. Understanding ho
 *   **Manager's Cheque:** For large amounts, a bank-issued cheque guarantees funds. Safer than carrying 100k cash.
 *   **Bank Transfer:** Only transfer once the car is in your name, or use a trusted showroom as an intermediary.
 
-## Visual example
-
-
 ## Important tips
 *   **Meet at the RTA:** The safest place to pay is at the government registration center. Hand over the cash exactly when the officer asks "Do you agree to transfer?".
 *   **Get a Receipt:** Even for 500 AED. Write "Refundable if engine fails test" on the paper.

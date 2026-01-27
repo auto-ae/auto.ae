@@ -46,9 +46,6 @@ During the inspection (or after seeing detailed photos), point out valid issues 
 ### 4. The "Walk Away"
 If the seller is stuck on a high price, politely decline and wait. If they are motivated to sell, they might message you back in a few days.
 
-## Visual example
-
-
 ## Important tips
 *   **Cash is King:** Sellers prefer cash buyers over bank finance buyers because it's faster. Mention "I have cash ready" to get a better deal.
 *   **Be Respectful:** "50k cash now" is rude. "Would you consider 50,000 if I finish the deal today?" is professional.
