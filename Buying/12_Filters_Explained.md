@@ -50,8 +50,8 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 
 ## Visual example
 
-![Advanced Filters Panel](../assets/filters_panel.png)
-*Figure 1: The sidebar allows you to combine multiple filters (e.g., SUV + GCC Specs + Under 100k km).*
+![Rolls-Royce Cullinan Real Listing](../assets/listing_main.jpg)
+*Figure 1: Actual listing from AUTO.AE showing the Rolls-Royce Cullinan (Price: 1.58M AED).*
 
 ## Important tips
 *   **Don't Over-filter:** If you select "Red color" + "2023" + "Specific Trim", you might get 0 results. Start broad and narrow down.
