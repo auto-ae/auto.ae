@@ -47,11 +47,11 @@ Get on Sheikh Zayed Road or Al Khail Road.
 *   **Turn off the Radio:** Keep the cabin silent to hear mechanical noises.
 
 ## Related pages
-*   [Buying: Inspection Checklist](./18_Inspection_Checklist)
-*   [Buying: What to Check Before Buying](./15_What_to_Check_Before_Buying)
+*   [Buying: Inspection Checklist](18_Inspection_Checklist)
+*   [Buying: What to Check Before Buying](15_What_to_Check_Before_Buying)
 
 ## Next step
-*   [Found the one? Learn how to pay safely](./20_Deposits_and_Payments)
+*   [Found the one? Learn how to pay safely](20_Deposits_and_Payments)
 
 ---
 *Last updated: January 2026*

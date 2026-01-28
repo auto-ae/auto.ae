@@ -50,14 +50,14 @@ The mobile app includes everything from the website, plus:
 *   **Permissions:** Allow "Notifications" to get the most out of the buying experience. You can customize which alerts you receive in Settings.
 
 ## Useful links
-*   [Website vs Mobile App Comparison](8_Website_vs_Mobile_App.md)
+*   [Website vs Mobile App Comparison](8_Website_vs_Mobile_)
 
 ## Related pages
-*   [Platform: Notifications and Alerts](./9_Notifications_and_Alerts)
-*   [Listings Quality: Photo Guidelines](../Listings_Quality/65_Photo_Guidelines)
+*   [Platform: Notifications and Alerts](9_Notifications_and_Alerts)
+*   [Listings Quality: Photo Guidelines](65_Photo_Guidelines)
 
 ## Next step
-*   [Compare the Website and Mobile App features](./8_Website_vs_Mobile_App)
+*   [Compare the Website and Mobile App features](8_Website_vs_Mobile_App)
 
 ---
 *Last updated: January 2026*

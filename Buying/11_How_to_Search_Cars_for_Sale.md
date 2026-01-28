@@ -49,7 +49,7 @@ Click on any car card to open the full listing page.
 
 ## Visual example
 
-![Search Results Page](./assets/brands_list.png)
+![Search Results Page](assets/brands_list.png)
 *Figure 1: The main search interface showing the keyword bar and sorting options.*
 
 ## Important tips
@@ -61,11 +61,11 @@ Click on any car card to open the full listing page.
 *   **Typing too much:** Instead of "I want a red car", just type "Red". The search is keyword-based.
 
 ## Related pages
-*   [Buying: Filters Explained](./12_Filters_Explained)
-*   [Platform: AUTO.AE Marketplace Overview](../Platform/3_AUTO_AE_Marketplace_Overview)
+*   [Buying: Filters Explained](12_Filters_Explained)
+*   [Platform: AUTO.AE Marketplace Overview](3_AUTO_AE_Marketplace_Overview)
 
 ## Next step
-*   [Master the Advanced Filters](./12_Filters_Explained)
+*   [Master the Advanced Filters](12_Filters_Explained)
 
 ---
 *Last updated: January 2026*

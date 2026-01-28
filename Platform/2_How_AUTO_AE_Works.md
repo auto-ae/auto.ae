@@ -34,7 +34,7 @@ Start by selecting your main goal from the homepage:
 *   **Rent** if you need a temporary vehicle.
 *   **VIP Plates** if you are looking for a special license number.
 
-![Navigation Header](../assets/nav_header.png)
+![Navigation Header](nav_header.png)
 *Figure 1: The main navigation bar allows quick access to all marketplaces.*
 
 ### 2. Search and Filter
@@ -68,19 +68,19 @@ To use the full features (like " Favorites" or "Listing a Car"), sign up using y
 ## Important tips
 *   **No Registration Needed to Browse:** You can search and view phone numbers without creating an account.
 *   **Register to Offer:** To list your own car or save favorites, you must register (it takes 1 minute via phone number).
-*   **Safety First:** Never send money online without seeing the car. Read our [Safety Guide](../Safety/75_Common_Scams.md) for more.
+*   **Safety First:** Never send money online without seeing the car. Read our [Safety Guide](75_Common_Sc) for more.
 
 ## Useful links
 *   [Search Cars for Sale](https://auto.ae/sale)
 *   [List Your Car](https://auto.ae/sell)
 
 ## Related pages
-*   [Platform: What is AUTO.AE](./1_What_is_AUTO_AE)
-*   [Buying: How to Contact a Seller](../Buying/14_How_to_Contact_a_Seller)
-*   [Safety: Common Scams](../Safety/75_Common_Scams)
+*   [Platform: What is AUTO.AE](1_What_is_AUTO_AE)
+*   [Buying: How to Contact a Seller](14_How_to_Contact_a_Seller)
+*   [Safety: Common Scams](75_Common_Scams)
 
 ## Next step
-*   [Learn about the different Marketplaces (Buy vs Rent vs Plates)](./3_AUTO_AE_Marketplace_Overview)
+*   [Learn about the different Marketplaces (Buy vs Rent vs Plates)](3_AUTO_AE_Marketplace_Overview)
 
 ---
 *Last updated: January 2026*

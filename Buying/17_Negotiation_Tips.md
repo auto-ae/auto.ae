@@ -59,11 +59,11 @@ If the seller is stuck on a high price, politely decline and wait. If they are m
 *   **Comparing Apples to Oranges:** Don't tell a seller "I saw a cheaper one" if the cheaper one has double the mileage.
 
 ## Related pages
-*   [Buying: How to Contact a Seller](./14_How_to_Contact_a_Seller)
-*   [Buying: Inspection Checklist](./18_Inspection_Checklist)
+*   [Buying: How to Contact a Seller](14_How_to_Contact_a_Seller)
+*   [Buying: Inspection Checklist](18_Inspection_Checklist)
 
 ## Next step
-*   [Prepare for the physical inspection](./18_Inspection_Checklist)
+*   [Prepare for the physical inspection](18_Inspection_Checklist)
 
 ---
 *Last updated: January 2026*

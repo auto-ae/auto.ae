@@ -49,11 +49,11 @@ Assuming the car is fine because no warning lights are on.
 *   **Check the Spare Key:** A replacement modern key can cost 2000 AED. Ask for both keys.
 
 ## Related pages
-*   [Buying: What to Check Before Buying](./15_What_to_Check_Before_Buying)
-*   [Safety: Common Scams](../Safety/75_Common_Scams)
+*   [Buying: What to Check Before Buying](15_What_to_Check_Before_Buying)
+*   [Safety: Common Scams](75_Common_Scams)
 
 ## Next step
-*   [Decide between a Dealer or Private Seller](./22_Dealer_vs_Private_Seller)
+*   [Decide between a Dealer or Private Seller](22_Dealer_vs_Private_Seller)
 
 ---
 *Last updated: January 2026*

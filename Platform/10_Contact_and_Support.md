@@ -55,11 +55,11 @@ While AUTO.AE is a digital-first platform, our headquarters are located in Dubai
 *   **Sending Multiple Emails:** Please send one detailed email. Sending 5 emails slows down the response time.
 
 ## Related pages
-*   [Safety: Reporting Fraud](../Safety/81_Reporting_Fraud)
-*   [Showrooms: Contacting Showrooms](../Showrooms/48_Contacting_Showrooms)
+*   [Safety: Reporting Fraud](81_Reporting_Fraud)
+*   [Showrooms: Contacting Showrooms](48_Contacting_Showrooms)
 
 ## Next step
-*   [You have completed the Platform Overview! Start the Buying Guide](../Buying/11_How_to_Search_Cars_for_Sale)
+*   [You have completed the Platform Overview! Start the Buying Guide](11_How_to_Search_Cars_for_Sale)
 
 ---
 *Last updated: January 2026*

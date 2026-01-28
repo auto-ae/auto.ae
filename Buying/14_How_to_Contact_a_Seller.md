@@ -51,11 +51,11 @@ Best for initial inquiries if you don't want to share your number yet.
 *   **Sharing OTPs:** Never share any verification code (OTP) with a seller. Real sellers never ask for this.
 
 ## Related pages
-*   [Buying: Negotiation Tips](./17_Negotiation_Tips)
-*   [Safety: Safe Meetings](../Safety/77_Safe_Meetings)
+*   [Buying: Negotiation Tips](17_Negotiation_Tips)
+*   [Safety: Safe Meetings](77_Safe_Meetings)
 
 ## Next step
-*   [Learn what to check before you buy](./15_What_to_Check_Before_Buying)
+*   [Learn what to check before you buy](15_What_to_Check_Before_Buying)
 
 ---
 *Last updated: January 2026*

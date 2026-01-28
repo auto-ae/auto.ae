@@ -50,7 +50,7 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 
 ## Visual example
 
-![Rolls-Royce Cullinan Real Listing](./assets/listing_main.jpg)
+![Rolls-Royce Cullinan Real Listing](assets/listing_main.jpg)
 *Figure 1: Actual listing from AUTO.AE showing the Rolls-Royce Cullinan (Price: 1.58M AED).*
 
 ## Important tips
@@ -62,11 +62,11 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 *   **Confusing "Model Year" with "Registration Date":** A 2020 model might be registered in 2021. The filter uses the *Model Year*.
 
 ## Related pages
-*   [Buying: What to Check Before Buying](./15_What_to_Check_Before_Buying)
-*   [Buying: VIN and History Basics](./16_VIN_and_History_Basics)
+*   [Buying: What to Check Before Buying](15_What_to_Check_Before_Buying)
+*   [Buying: VIN and History Basics](16_VIN_and_History_Basics)
 
 ## Next step
-*   [Understand what you see on the Listing Page](./13_Car_Listing_Page_Overview)
+*   [Understand what you see on the Listing Page](13_Car_Listing_Page_Overview)
 
 ---
 *Last updated: January 2026*

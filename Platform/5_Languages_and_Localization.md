@@ -58,11 +58,11 @@ The official language of the GCC.
 *   **Legal Mismatch:** Remember, while the app is bilingual, the **RTA Sales Agreement** is legally binding in its Arabic text in court.
 
 ## Related pages
-*   [Platform: Supported GCC Countries](./4_Supported_GCC_Countries)
-*   [Listings Quality: Writing Descriptions](../Listings_Quality/67_Writing_Descriptions)
+*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries)
+*   [Listings Quality: Writing Descriptions](67_Writing_Descriptions)
 
 ## Next step
-*   [Understand Currencies and Price Display](./6_Currencies_and_Price_Display)
+*   [Understand Currencies and Price Display](6_Currencies_and_Price_Display)
 
 ---
 *Last updated: January 2026*

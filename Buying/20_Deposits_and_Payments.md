@@ -44,11 +44,11 @@ The moment money changes hands is the moment most scams happen. Understanding ho
 *   **Paying without a Title Check:** Ensure the person selling the car actually owns it (Name on ID matches Registration Card).
 
 ## Related pages
-*   [Safety: Payment Safety](../Safety/78_Payment_Safety)
-*   [Buying: Common Buyer Mistakes](./21_Common_Buyer_Mistakes)
+*   [Safety: Payment Safety](78_Payment_Safety)
+*   [Buying: Common Buyer Mistakes](21_Common_Buyer_Mistakes)
 
 ## Next step
-*   [Review critical mistakes to avoid](./21_Common_Buyer_Mistakes)
+*   [Review critical mistakes to avoid](21_Common_Buyer_Mistakes)
 
 ---
 *Last updated: January 2026*

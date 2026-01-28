@@ -55,11 +55,11 @@ You can manage your preferences to avoid spam.
 *   **Ignoring Email:** Some official documents and receipts are sent only via email, not push.
 
 ## Related pages
-*   [Platform: AUTO.AE Mobile Apps Overview](./7_AUTO_AE_Mobile_Apps_Overview)
-*   [Buying: How to Search Cars for Sale](../Buying/11_How_to_Search_Cars_for_Sale)
+*   [Platform: AUTO.AE Mobile Apps Overview](7_AUTO_AE_Mobile_Apps_Overview)
+*   [Buying: How to Search Cars for Sale](11_How_to_Search_Cars_for_Sale)
 
 ## Next step
-*   [Find out how to get Support](./10_Contact_and_Support)
+*   [Find out how to get Support](10_Contact_and_Support)
 
 ---
 *Last updated: January 2026*
