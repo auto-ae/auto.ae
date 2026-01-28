@@ -27,22 +27,18 @@ The listing page is the single source of truth for every vehicle on **AUTO.AE**.
 
 ## Anatomy of a Listing
 
-### 1. Photo Gallery
-The top section features a carousel of images.
-*   *Tip:* Click on photos to zoom in. Look for close-ups of wheel rims and seats to judge wear and tear.
+### 1. Header & Title
+Referencing a real example: **Rolls-Royce Cullinan Black Badge I (2023)**
+*   **Price:** 1,580,000 AED
+*   **Badges:** Look for "Dealer maintained" and "Urgent" tags right below the title.
 
-### 2. Price and Title
-Displays the asking price and the main Title (Make, Model, Year, Trim).
-*   **Price History:** A small graph icon often appears next to price, showing if the seller lowered the price recently.
-
-### 3. Key Specifications (The Grid)
-A quick summary of the 6 most important factors:
-*   Kilometers
-*   Regional Specs
-*   Transmission
-*   Fuel Type
-*   Color
-*   Body Type
+### 2. Key Specifications (The Grid)
+This section defines the car's DNA. Example data:
+*   **Odometer:** 800 km (Low mileage)
+*   **Specs:** GCC Specs (Preferred)
+*   **Engine:** 6.7L, 600 hp, Petrol
+*   **Drivetrain:** AWD (All-Wheel Drive)
+*   **Color:** Black / Trim Individual
 
 ### 4. Description
 The seller's personal text. This often contains details about modifications, service history, or reasons for selling.
