@@ -39,7 +39,10 @@ Perfect for when a car is slightly over your budget.
 
 ### 3. Chat and Activity
 *   **New Messages:** When a seller or buyer replies to your inquiry.
-*   **RTA Updates:** Integrated alerts for traffic file updates (registration expiry) if you link your Traffic File.
+*   **Traffic File Alerts:** Link your **Traffic Code (TC Number)** to get reminders for compliance:
+    *   Vehicle Registration Expiry.
+    *   Accumulated Black Points.
+    *   Impound alerts.
 
 ## How to Configure
 You can manage your preferences to avoid spam.

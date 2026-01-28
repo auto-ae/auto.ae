@@ -41,7 +41,7 @@ One of the first choices you make on **AUTO.AE** is whether to buy from a busine
 
 ## Related pages
 *   [Showrooms: Finding Dealers](../Showrooms/46_Finding_Dealers.md)
-*   [Buying: Deposits and Payments](20_Deposits_and_Payments.md)
+*   [Buying: Deposits and Payments](./20_Deposits_and_Payments.md)
 
 ## Next step
 *   You have mastered the Buying Section! [Ready to Rent?](../Renting/23_How_Car_Rentals_Work.md)

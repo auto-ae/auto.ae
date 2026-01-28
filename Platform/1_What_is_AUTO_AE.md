@@ -65,12 +65,12 @@ AUTO.AE is available on all major platforms:
 *   [Showrooms Directory](https://auto.ae/showrooms)
 
 ## Related pages
-*   [Platform: How AUTO.AE Works](2_How_AUTO_AE_Works.md)
-*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)
-*   [Platform: AUTO.AE Mobile Apps Overview](7_AUTO_AE_Mobile_Apps_Overview.md)
+*   [Platform: How AUTO.AE Works](./2_How_AUTO_AE_Works.md)
+*   [Platform: Supported GCC Countries](./4_Supported_GCC_Countries.md)
+*   [Platform: AUTO.AE Mobile Apps Overview](./7_AUTO_AE_Mobile_Apps_Overview.md)
 
 ## Next step
-*   [Read about how the platform ecosystem works](2_How_AUTO_AE_Works.md)
+*   [Read about how the platform ecosystem works](./2_How_AUTO_AE_Works.md)
 
 ---
 *Last updated: January 2026*

@@ -26,19 +26,24 @@ We want your experience on **AUTO.AE** to be seamless. If you encounter technica
 
 ## Support Channels
 
-### 1. General User Support (Buyers & Individual Sellers)
-For questions about login, listing approval, or app bugs.
-*   **Email:** support@auto.ae
-*   **Response Time:** 24-48 hours.
+### 1. In-App Support (Fastest)
+*   **Chat:** Go to **Profile > Support Chat**.
+*   **Hours:** 9:00 AM – 9:00 PM (UAE Time).
+*   **Language:** Arabic & English.
 
-### 2. Fraud & Safety Reporting
-If you suspect a scammer or a fake listing:
-*   **Report Button:** Use the "Report" flag on the specific listing page (Fastest method).
-*   **Email:** safety@auto.ae
+### 2. Email Support
+*   **General:** support@auto.ae
+*   **Legal:** legal@auto.ae
+*   **Response Time:** Within 24 hours.
 
 ### 3. Business & Advertising
-For dealerships wanting to join AUTO.AE or banner advertising inquiries.
+For dealerships wanting to join AUTO.AE:
 *   **Email:** sales@auto.ae
+
+## Consumer Rights (DED)
+If you have a dispute with a **Dealer/Showroom** that cannot be resolved via the platform:
+*   You have the right to file a complaint with the **Department of Economy & Tourism (DED)**.
+*   Keep your AUTO.AE chat history as evidence.
 
 ## Office Location
 While AUTO.AE is a digital-first platform, our headquarters are located in Dubai.

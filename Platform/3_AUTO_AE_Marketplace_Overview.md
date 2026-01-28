@@ -79,7 +79,7 @@ A niche, high-value marketplace for trading car license plates. This is unique t
 *   [VIP Plates: What Are VIP Plates](../VIP_Plates/35_What_Are_VIP_Plates.md)
 
 ## Next step
-*   [Check which countries are supported](4_Supported_GCC_Countries.md)
+*   [Check which countries are supported](./4_Supported_GCC_Countries.md)
 
 ---
 *Last updated: January 2026*

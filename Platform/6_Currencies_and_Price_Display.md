@@ -43,6 +43,7 @@ If you are viewing a car located in Dubai (priced in AED) but you have selected 
 ### VAT Display
 *   **Dealers/Showrooms:** Prices usually **include** VAT unless stated otherwise, but you must confirm.
 *   **Private Sellers:** There is no VAT on private car sales between individuals in the UAE.
+*   **Legal Currency:** Even if you agree on a price in USD, the Sales Agreement will be printed in AED using the official Central Bank rate.
 
 ## Important tips
 *   **Negotiate in Local Currency:** If the seller is in Dubai, negotiate in AED. Trying to fix a price in USD might lead to confusion due to bank exchange rates.

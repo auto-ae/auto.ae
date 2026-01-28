@@ -35,7 +35,9 @@ The mobile app includes everything from the website, plus:
     *   Take photos directly with your phone camera and upload them to your listing in seconds.
 3.  **Location Services:**
     *   Find showrooms near your current GPS location.
-4.  **Dark Mode:**
+4.  **UAE Pass Integration:**
+    *   Log in securely using your digital national identity (UAE Pass) for instant verification.
+5.  **Dark Mode:**
     *   Fully optimized dark mode for night-time browsing.
 
 ### Download Links

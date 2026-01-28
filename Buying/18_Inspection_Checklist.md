@@ -44,7 +44,7 @@ You should never buy a used car without inspecting it in person (or hiring a pro
 *   [ ] **Date Check:** In UAE, tires older than **5 years** fail the RTA test automatically. Check the 4-digit date code (e.g., 2521).
 *   [ ] **Cracks:** Dry rot happens fast here. Look for tiny cracks in the sidewall.
 
-### 4. Start Up
+### 5. Start Up
 *   [ ] **Cold Start:** Ask the seller not to warm up the car before you arrive. Listen for rattling noises when starting cold.
 *   [ ] **Smoke:** Look at the exhaust. Blue smoke = oil burning. White smoke = coolant leak.
 
@@ -53,11 +53,11 @@ You should never buy a used car without inspecting it in person (or hiring a pro
 *   **Meet in Public:** Always inspect the car in a safe, public location or at the seller's home.
 
 ## Related pages
-*   [Buying: Test Drive Checklist](19_Test_Drive_Checklist.md)
-*   [Buying: What to Check Before Buying](15_What_to_Check_Before_Buying.md)
+*   [Buying: Test Drive Checklist](./19_Test_Drive_Checklist.md)
+*   [Buying: What to Check Before Buying](./15_What_to_Check_Before_Buying.md)
 
 ## Next step
-*   [Take it for a spin using the Test Drive Guide](19_Test_Drive_Checklist.md)
+*   [Take it for a spin using the Test Drive Guide](./19_Test_Drive_Checklist.md)
 
 ---
 *Last updated: January 2026*

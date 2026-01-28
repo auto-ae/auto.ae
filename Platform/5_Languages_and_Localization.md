@@ -54,7 +54,8 @@ The official language of the GCC.
 
 ## Common mistakes
 *   **Writing Description in One Language Only:** If you write only in Arabic, you might miss 80% of expat buyers. English is safer if you choose only one.
-*   **Ignoring Chat Language:** If a buyer messages you in English, try to reply in English (or use a translation tool).
+*   **Ignoring Chat Language:** If a buyer messages you in English, try to reply in English.
+*   **Legal Mismatch:** Remember, while the app is bilingual, the **RTA Sales Agreement** is legally binding in its Arabic text in court.
 
 ## Related pages
 *   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)

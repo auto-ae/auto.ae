@@ -42,12 +42,12 @@ In the UAE, asking "What is your last price?" is standard, but doing it too earl
 Often, the final negotiation happens **at the testing center**.
 *   If the RTA test result shows "Chassis Minor" or "Oil Leak", use this official report to ask for a 1,000-2,000 AED discount on the spot.
 
-### 3. Use Flaws as Leverage
+### 4. Use Flaws as Leverage
 During the inspection (or after seeing detailed photos), point out valid issues to justify your lower offer:
 *   "The tires are 3 years old, I'll need to spend 2000 AED to replace them."
 *   "There is a scratch on the bumper."
 
-### 4. The "Walk Away"
+### 5. The "Walk Away"
 If the seller is stuck on a high price, politely decline and wait. If they are motivated to sell, they might message you back in a few days.
 
 ## Important tips
@@ -59,11 +59,11 @@ If the seller is stuck on a high price, politely decline and wait. If they are m
 *   **Comparing Apples to Oranges:** Don't tell a seller "I saw a cheaper one" if the cheaper one has double the mileage.
 
 ## Related pages
-*   [Buying: How to Contact a Seller](14_How_to_Contact_a_Seller.md)
-*   [Buying: Inspection Checklist](18_Inspection_Checklist.md)
+*   [Buying: How to Contact a Seller](./14_How_to_Contact_a_Seller.md)
+*   [Buying: Inspection Checklist](./18_Inspection_Checklist.md)
 
 ## Next step
-*   [Prepare for the physical inspection](18_Inspection_Checklist.md)
+*   [Prepare for the physical inspection](./18_Inspection_Checklist.md)
 
 ---
 *Last updated: January 2026*

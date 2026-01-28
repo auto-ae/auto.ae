@@ -45,10 +45,10 @@ The moment money changes hands is the moment most scams happen. Understanding ho
 
 ## Related pages
 *   [Safety: Payment Safety](../Safety/78_Payment_Safety.md)
-*   [Buying: Common Buyer Mistakes](21_Common_Buyer_Mistakes.md)
+*   [Buying: Common Buyer Mistakes](./21_Common_Buyer_Mistakes.md)
 
 ## Next step
-*   [Review critical mistakes to avoid](21_Common_Buyer_Mistakes.md)
+*   [Review critical mistakes to avoid](./21_Common_Buyer_Mistakes.md)
 
 ---
 *Last updated: January 2026*

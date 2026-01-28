@@ -57,11 +57,11 @@ By default, the site detects your IP. To see cars in another country:
 *   [GCC Customs Info (General)](https://auto.ae/blog)
 
 ## Related pages
-*   [Platform: Languages and Localization](5_Languages_and_Localization.md)
+*   [Platform: Languages and Localization](./5_Languages_and_Localization.md)
 *   [Buying: What to Check Before Buying](../Buying/15_What_to_Check_Before_Buying.md)
 
 ## Next step
-*   [Learn about Language options](5_Languages_and_Localization.md)
+*   [Learn about Language options](./5_Languages_and_Localization.md)
 
 ---
 *Last updated: January 2026*
