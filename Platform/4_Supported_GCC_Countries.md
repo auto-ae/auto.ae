@@ -30,12 +30,12 @@
 
 AUTO.AE supports listings and users from the following countries:
 
-1.  **🇦🇪 United Arab Emirates (UAE):** The primary hub. Covers all 7 emirates (Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al Quwain, Ras Al Khaimah, Fujairah).
-2.  **🇸🇦 Saudi Arabia (KSA):** Key market for SUVs and luxury imports.
-3.  **🇶🇦 Qatar:** Supporting the growing market in Doha.
-4.  **🇰🇼 Kuwait:** High demand for classic and sports cars.
-5.  **🇧🇭 Bahrain:** Accessible market with frequent cross-border traffic.
-6.  **🇴🇲 Oman:** Strong market for 4x4 and utility vehicles.
+1.  **🇦🇪 United Arab Emirates (UAE):** Home market. All listings verified with Emirates ID/Trade License.
+2.  **🇸🇦 Saudi Arabia (KSA):** Largest export destination. Heavy demand for Land Cruisers and Lexus LX.
+3.  **🇴🇲 Oman:** Strong market for used 4x4s. Many cars are driven across the border from UAE.
+4.  **🇶🇦 Qatar:** Growing market for luxury and sports cars.
+5.  **🇰🇼 Kuwait:** Enthusiast market for classic cars and American muscle.
+6.  **🇧🇭 Bahrain:** Smaller but active market for high-end imports.
 
 ### Changing Your Location
 By default, the site detects your IP. To see cars in another country:

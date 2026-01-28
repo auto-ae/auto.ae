@@ -30,14 +30,14 @@ The moment money changes hands is the moment most scams happen. Understanding ho
 *   **Rule #1:** Never pay a deposit before seeing the car.
 *   **Method:** Cash is best, with a written receipt. Avoid bank transfers to personal accounts for deposits unless you have a signed contract.
 
-### 2. Final Payment
-*   **Cash:** The most common method for private sales. Exchange money inside the RTA/Traffic office *at the moment of transfer*.
-*   **Manager's Cheque:** For large amounts, a bank-issued cheque guarantees funds. Safer than carrying 100k cash.
-*   **Bank Transfer:** Only transfer once the car is in your name, or use a trusted showroom as an intermediary.
+### 3. Final Payment
+*   **Cash:** The standard for private deals. Exchange cash **inside the RTA/Tasjeel center**, immediately after the officer stamps "Transferred".
+*   **Manager's Cheque:** Safer for amounts over 50k AED. Verify the cheque at the bank if possible.
+*   **Bank Transfer:** Only transfer **after** the car registration card (Mulkiya) is in your name.
 
 ## Important tips
-*   **Meet at the RTA:** The safest place to pay is at the government registration center. Hand over the cash exactly when the officer asks "Do you agree to transfer?".
-*   **Get a Receipt:** Even for 500 AED. Write "Refundable if engine fails test" on the paper.
+*   **The "Transfer" Moment:** The exact moment ownership changes is when the RTA agent prints the new Mulkiya. Do not hand over cash before this step.
+*   **Deposit Receipt:** If paying a booking fee, write a simple paper: "Deposit of 1000 AED for Car VIN XYZ. Refundable if Tasjeel test fails." Both parties sign.
 
 ## Common mistakes
 *   **Transferring money for "Shipping":** If a seller says "Car is in UK, send money for shipping", IT IS A SCAM.

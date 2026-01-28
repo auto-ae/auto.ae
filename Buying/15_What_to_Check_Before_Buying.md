@@ -27,21 +27,17 @@ Buying a car is a major commitment, and doing your due diligence online can save
 ## Digital Checklist
 
 ### 1. Photo Analysis
-*   **Mismatched Paint:** Look closely at the doors vs the bumper. Is one shade slightly different?
-*   **Worn Interior:** Does a car with only "20,000 km" have a torn driver's seat and shiny steering wheel? That's a red flag for odometer rollback.
-*   **Dashboard Lights:** Zoom in on the dashboard photo. Is the "Check Engine" light on?
+*   **GCC vs Import:** Look for the "GCC Specs" sticker on the door jam. If not providing it, ask "Is this US Spec?".
+*   **Mismatched Paint:** Intense sunlight in UAE fades paint. If one door looks "newer" than the rest, it was likely repainted after an accident.
+*   **Dashboard Lights:** Zoom in. Is the "Check Engine" or "Airbag" light taped over?
 
-### 2. Price Logic
-*   **Too Good to Be True:** If a 2024 Model is listed for 50% less than the market average, it is likely a scam or a flood-damaged car.
-*   **Compare:** Open 3 similar tabs to see the average price range.
+### 2. Digital History Check
+*   **MOI Check:** Use the chassis number (VIN) on the **Ministry of Interior** website to see recorded accidents.
+*   **EVG / Emirates Vehicle Gate:** Check for unpaid fines or impound notices.
 
-### 3. Seller History
-*   Click on the **Seller's Name**.
-*   Do they have 50 other cheap cars listed? They might be a "curbstoner" (unlicensed dealer posing as private seller).
-
-### 4. Description Quality
-*   "Perfect condition, lady driven" is a cliché.
-*   Look for specific details: "Serviced at Agency last month", "New tires installed in June". Specifics = Trust.
+### 3. Seller Credibility
+*   **Multiple Listings:** If a "Private Seller" has 10 cars listed, they are likely an unlicensed trader.
+*   **Price Logic:** If a 2024 Patrol is listed for 50k AED, it is a scam (or a total loss).
 
 ## Important tips
 *   **Ask for the VIN:** If the VIN is not listed, message the seller: "Can you share the chassis number?". If they refuse, walk away.
