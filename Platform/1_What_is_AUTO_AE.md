@@ -40,8 +40,18 @@ A dedicated section for daily and monthly car rentals. Users can compare offers 
 ### 3. VIP Number Plates
 A unique marketplace for trading prestigious license plates. Sellers can list plates from Dubai, Abu Dhabi, and other emirates, and buyers can find investment-grade numbers.
 
-### 4. Showroom & Dealer Tools
+### 4. Comparisons & Catalog
+*   **Car Catalog:** Detailed specs for all brands (Toyota, Nissan, Mercedes, etc.) with real-time market prices.
+*   **Comparison Tool:** Compare multiple cars side-by-side to choose the best option.
+
+### 5. Showroom & Dealer Tools
 Professional tools for dealerships to manage inventory, track leads, and build a reputation page to attract more local buyers.
+
+## Mobile Apps
+AUTO.AE is available on all major platforms:
+*   [App Store (iOS)](https://apps.apple.com/app/auto-ae-buy-sell-cars/id1645549622)
+*   [Google Play (Android)](https://play.google.com/store/apps/details?id=ae.auto)
+*   [Huawei AppGallery](https://appgallery.huawei.com/app/C112528747)
 
 ## Important tips
 *   **Use the App:** The mobile app often sends push notifications for price drops on your favorite cars.

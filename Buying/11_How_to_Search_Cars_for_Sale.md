@@ -30,14 +30,15 @@ Searching for a car on **AUTO.AE** is designed to be as intuitive as using a sea
 ### 1. Select the "Buy" Tab
 Ensure you are in the correct marketplace by clicking **"Buy a Car"** in the main header or app navigation.
 
-### 2. Enter Keywords
-Use the main search bar to type anything:
-*   *Brand:* "Toyota"
-*   *Model:* "Land Cruiser"
-*   *Features:* "Sunroof", "Leather"
-*   *Press Enter* to see initial results.
+### 2. Search by Model (Top Picks)
+Use the Catalog or Search bar to find popular used cars in the UAE:
+*   **Toyota Land Cruiser** (1,400+ listings) — The market leader for reliability.
+*   **Nissan Patrol** — A favorite for desert driving and family comfort.
+*   **Mercedes-Benz G-Class** — Top choice for luxury SUVs.
+*   **Other popular options:** Toyota Hilux, Mitsubishi L200, Range Rover.
 
-### 3. Browse and Sort
+### 3. Sorting
+Sort results to find the best deals:
 Once the results load, use the "Sort" dropdown (usually top right) to organize them:
 *   **Price: Low to High** – Good for finding bargains.
 *   **Price: High to Low** – Good for finding luxury/premium trims.
