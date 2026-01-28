@@ -10,31 +10,31 @@ Whether you are looking for a verified used car, a luxury rental, or an exclusiv
 
 This Wiki is your comprehensive guide to using the platform.
 
-### 🏢 [Platform Overview](Platform/1_What_is_AUTO_AE.md)
+### 🏢 [Platform Overview](Platform/1_What_is_AUTO_AE)
 Understand the core features of AUTO.AE, supported countries, languages, and mobile apps.
 
-### 🚗 [Buying Cars](Buying/11_How_to_Search_Cars_for_Sale.md)
+### 🚗 [Buying Cars](Buying/11_How_to_Search_Cars_for_Sale)
 A complete guide to finding your dream car, inspecting it, and negotiating safely.
 
-### 🔑 [Renting Cars](Renting/23_How_Car_Rentals_Work.md)
+### 🔑 [Renting Cars](Renting/23_How_Car_Rentals_Work)
 Everything you need to know about daily and monthly rentals, insurance, and deposits.
 
-### 👑 [VIP Plates](VIP_Plates/35_What_Are_VIP_Plates.md)
+### 👑 [VIP Plates](VIP_Plates/35_What_Are_VIP_Plates)
 How to buy, sell, and transfer exclusive VIP license plates in the UAE.
 
-### 🏪 [Showrooms](Showrooms/45_Showroom_Profiles.md)
+### 🏪 [Showrooms](Showrooms/45_Showroom_Profiles)
 For dealers: managing your inventory, leads, and reputation on AUTO.AE.
 
-### 📖 [Catalog](Catalog/55_What_Is_the_Catalog.md)
+### 📖 [Catalog](Catalog/55_What_Is_the_Catalog)
 Detailed specifications, trims, and comparisons for thousands of car models.
 
-### ✅ [Listings Quality](Listings_Quality/65_Photo_Guidelines.md)
+### ✅ [Listings Quality](Listings_Quality/65_Photo_Guidelines)
 Best practices for creating high-quality listings that sell faster.
 
-### 🛡️ [Safety & Trust](Safety/75_Common_Scams.md)
+### 🛡️ [Safety & Trust](Safety/75_Common_Scams)
 Essential tips to avoid scams and ensure safe transactions.
 
-### 💡 [Guides & Glossary](Guides/85_Choosing_a_Car_in_GCC_Climate.md)
+### 💡 [Guides & Glossary](Guides/85_Choosing_a_Car_in_GCC_Climate)
 Expert advice on choosing cars for the GCC climate, city driving, and more.
 
 ---
