@@ -49,7 +49,7 @@ Click on any car card to open the full listing page.
 
 ## Visual example
 
-![Search Results Page](assets/brands_list.png)
+![Search Results Page](Buying/assets/brands_list.png)
 *Figure 1: The main search interface showing the keyword bar and sorting options.*
 
 ## Important tips

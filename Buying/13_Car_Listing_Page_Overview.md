@@ -51,7 +51,7 @@ Located on the right (desktop) or bottom (mobile). Shows:
 
 ## Visual example
 
-![Rolls-Royce Cullinan Listing](assets/listing_main.jpg)
+![Rolls-Royce Cullinan Listing](Buying/assets/listing_main.jpg)
 *Figure 1: A real example of a high-quality listing on AUTO.AE.*
 
 ## Important tips

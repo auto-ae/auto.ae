@@ -50,7 +50,7 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 
 ## Visual example
 
-![Rolls-Royce Cullinan Real Listing](assets/listing_main.jpg)
+![Rolls-Royce Cullinan Real Listing](Buying/assets/listing_main.jpg)
 *Figure 1: Actual listing from AUTO.AE showing the Rolls-Royce Cullinan (Price: 1.58M AED).*
 
 ## Important tips
