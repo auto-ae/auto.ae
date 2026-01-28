@@ -31,14 +31,15 @@
 ## The Three Marketplaces
 
 ### 1. The Sales Marketplace (Buy & Sell)
-This is the largest section of AUTO.AE, designed for permanent vehicle ownership.
-*   **Inventory:** New cars (0 km) and Used cars.
-*   **Sellers:** 
+This is the heart of AUTO.AE, currently hosting **18,800+ live offers** (New & Used).
+*   **Inventory:** From economical daily drivers to collector hypercars like the Rolls-Royce Cullinan.
+*   **Price Range:** Options ranging from 10,000 AED up to **20,000,000 AED** for rare exclusives.
+*   **Sellers:**
     *   *Private Sellers:* Individuals selling their personal cars.
-    *   *Showrooms:* Registered dealers with physical locations.
+    *   *Showrooms:* Registered dealers like "ALO CARS USED CARS" and "DEIZ GARAGE".
 *   **Key Features:**
     *   **Price History:** See how the price of a listing has changed over time.
-    *   **Trim Levels:** Advanced sorting by specific generation and trim (e.g., "M Sport" vs "Standard").
+    *   **Trim Levels:** Advanced sorting by specific generation (e.g., Land Cruiser 300 Series).
 
 ### 2. The Rental Marketplace
 Designed for temporary mobility needs, ranging from 1 day to 12 months.

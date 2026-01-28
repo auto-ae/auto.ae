@@ -29,12 +29,13 @@ Once you find a car you like, the next step is to initiate a conversation. **AUT
 ### 1. WhatsApp (Recommended)
 Most popular in the UAE.
 *   **Pros:** Fast, allows sharing location pins and extra photos easily.
-*   **How:** Click the green "WhatsApp" button on the listing. It will open the app directly with a pre-filled message: *"Hi, I saw your car on AUTO.AE..."*
+*   **How:** Click the green **"WhatsApp"** button on the listing.
+    *   *Example:* If contacting **ALO CARS USED CARS LLC**, this will open a chat directly with their sales representative.
 
 ### 2. Phone Call
 Best for serious, urgent buyers.
 *   **Pros:** Immediate answer, hear the seller's tone.
-*   **How:** Click "Call". The number will be revealed.
+*   **How:** Click **"Call"**. The number will be revealed (e.g., +971 50 XXXXXXX).
 
 ### 3. In-App Chat
 Best for initial inquiries if you don't want to share your number yet.

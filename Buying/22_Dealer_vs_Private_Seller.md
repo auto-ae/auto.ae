@@ -20,7 +20,7 @@ One of the first choices you make on **AUTO.AE** is whether to buy from a busine
 ## Key concepts explained
 | Term | Definition |
 | :--- | :--- |
-| **Showroom** | A registered business with a trade license. |
+| **Showroom** | A registered business like **Atlantic Motors FZCO** or **DEIZ GARAGE**. |
 | **Private Seller** | An individual selling their personal car. |
 | **Consumer Rights** | Laws that protect you when buying from a business (e.g., warranty against hidden defects), which do not apply to private sales. |
 

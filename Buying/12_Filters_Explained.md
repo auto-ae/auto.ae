@@ -28,16 +28,21 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 ## Main Filters Guide
 
 ### 1. Basic Details
-*   **Make & Model:** Select "Toyota", then "Land Cruiser".
-*   **Year Range:** E.g., "From 2020 to 2024".
-*   **Price Range:** Set a min and max budget (e.g., 50k - 100k AED).
+*   **Make & Model:** Select "Toyota", then "Land Cruiser" (or other popular models like "Nissan Patrol").
+*   **Price Range:** Use the preset brackets found on the site:
+    *   *Budget:* Up to 100,000 AED
+    *   *Mid:* Up to 300,000 AED
+    *   *Luxury:* Up to 1,000,000 AED
+    *   *Exclusive:* Up to 20,000,000 AED
 
-### 2. Technical Specs
+### 2. Technical Specs & Tags
 *   **Regional Specs:**
     *   *GCC Specs:* Built for Gulf heat (larger radiators, improved AC). **Highly recommended**.
-    *   *North American/Japanese Specs:* Imported cars. Often cheaper but check history for accidents.
-*   **Transmission:** Automatic vs Manual.
-*   **Fuel Type:** Petrol, Diesel, Hybrid, Electric.
+    *   *Import:* (American/Japanese/Euro) – Generally cheaper but require careful checking.
+*   **Valuable Tags:** Look for listings marked with:
+    *   **"Dealer maintained"** (Service history verified)
+    *   **"Urgent"** (Motivated seller)
+    *   **"Fully loaded"** (Top option package)
 
 ### 3. Condition & History
 *   **Mileage:** Limit the max km driven.
