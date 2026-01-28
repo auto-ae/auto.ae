@@ -75,12 +75,12 @@ To use the full features (like " Favorites" or "Listing a Car"), sign up using y
 *   [List Your Car](https://auto.ae/sell)
 
 ## Related pages
-*   [Platform: What is AUTO.AE](./1_What_is_AUTO_AE.md)
-*   [Buying: How to Contact a Seller](../Buying/14_How_to_Contact_a_Seller.md)
-*   [Safety: Common Scams](../Safety/75_Common_Scams.md)
+*   [Platform: What is AUTO.AE](./1_What_is_AUTO_AE)
+*   [Buying: How to Contact a Seller](../Buying/14_How_to_Contact_a_Seller)
+*   [Safety: Common Scams](../Safety/75_Common_Scams)
 
 ## Next step
-*   [Learn about the different Marketplaces (Buy vs Rent vs Plates)](./3_AUTO_AE_Marketplace_Overview.md)
+*   [Learn about the different Marketplaces (Buy vs Rent vs Plates)](./3_AUTO_AE_Marketplace_Overview)
 
 ---
 *Last updated: January 2026*

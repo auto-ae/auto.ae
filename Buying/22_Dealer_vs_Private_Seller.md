@@ -40,11 +40,11 @@ One of the first choices you make on **AUTO.AE** is whether to buy from a busine
 *   **For Bargain Hunters:** Private sellers offer the best deals, but you must invest in a comprehensive pre-purchase inspection.
 
 ## Related pages
-*   [Showrooms: Finding Dealers](../Showrooms/46_Finding_Dealers.md)
-*   [Buying: Deposits and Payments](./20_Deposits_and_Payments.md)
+*   [Showrooms: Finding Dealers](../Showrooms/46_Finding_Dealers)
+*   [Buying: Deposits and Payments](./20_Deposits_and_Payments)
 
 ## Next step
-*   You have mastered the Buying Section! [Ready to Rent?](../Renting/23_How_Car_Rentals_Work.md)
+*   You have mastered the Buying Section! [Ready to Rent?](../Renting/23_How_Car_Rentals_Work)
 
 ---
 *Last updated: January 2026*

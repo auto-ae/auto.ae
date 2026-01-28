@@ -54,11 +54,11 @@ If you are viewing a car located in Dubai (priced in AED) but you have selected 
 *   **Forgetting VAT:** If buying from a showroom for export, you *can* claim VAT back, but only if you ship the car via an official freight forwarder.
 
 ## Related pages
-*   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)
-*   [Buying: Deposits and Payments](../Buying/20_Deposits_and_Payments.md)
+*   [Platform: Supported GCC Countries](./4_Supported_GCC_Countries)
+*   [Buying: Deposits and Payments](../Buying/20_Deposits_and_Payments)
 
 ## Next step
-*   [Explore the AUTO.AE Mobile Apps](7_AUTO_AE_Mobile_Apps_Overview.md)
+*   [Explore the AUTO.AE Mobile Apps](./7_AUTO_AE_Mobile_Apps_Overview)
 
 ---
 *Last updated: January 2026*

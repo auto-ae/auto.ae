@@ -48,11 +48,11 @@ Buying a car is a major commitment, and doing your due diligence online can save
 *   **Ignoring Import Status:** A "US Spec" car in Dubai requires a CARFAX check. Do not buy it blind.
 
 ## Related pages
-*   [Buying: VIN and History Basics](./16_VIN_and_History_Basics.md)
-*   [Buying: Common Buyer Mistakes](./21_Common_Buyer_Mistakes.md)
+*   [Buying: VIN and History Basics](./16_VIN_and_History_Basics)
+*   [Buying: Common Buyer Mistakes](./21_Common_Buyer_Mistakes)
 
 ## Next step
-*   [Learn how to check the VIN history](./16_VIN_and_History_Basics.md)
+*   [Learn how to check the VIN history](./16_VIN_and_History_Basics)
 
 ---
 *Last updated: January 2026*

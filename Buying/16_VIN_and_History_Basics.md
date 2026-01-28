@@ -52,11 +52,11 @@ If the car is **"North American Specs"**, assume it was crashed unless proven ot
 *   **Checking Only One Source:** A car might be clean in the UAE (EVG) but was crashed in the US before import. Check both if applicable.
 
 ## Related pages
-*   [Buying: What to Check Before Buying](./15_What_to_Check_Before_Buying.md)
-*   [Buying: Inspection Checklist](./18_Inspection_Checklist.md)
+*   [Buying: What to Check Before Buying](./15_What_to_Check_Before_Buying)
+*   [Buying: Inspection Checklist](./18_Inspection_Checklist)
 
 ## Next step
-*   [Learn specific Negotiation Tips](./17_Negotiation_Tips.md)
+*   [Learn specific Negotiation Tips](./17_Negotiation_Tips)
 
 ---
 *Last updated: January 2026*

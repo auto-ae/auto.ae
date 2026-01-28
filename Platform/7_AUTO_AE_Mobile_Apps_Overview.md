@@ -53,11 +53,11 @@ The mobile app includes everything from the website, plus:
 *   [Website vs Mobile App Comparison](8_Website_vs_Mobile_App.md)
 
 ## Related pages
-*   [Platform: Notifications and Alerts](9_Notifications_and_Alerts.md)
-*   [Listings Quality: Photo Guidelines](../Listings_Quality/65_Photo_Guidelines.md)
+*   [Platform: Notifications and Alerts](./9_Notifications_and_Alerts)
+*   [Listings Quality: Photo Guidelines](../Listings_Quality/65_Photo_Guidelines)
 
 ## Next step
-*   [Compare the Website and Mobile App features](8_Website_vs_Mobile_App.md)
+*   [Compare the Website and Mobile App features](./8_Website_vs_Mobile_App)
 
 ---
 *Last updated: January 2026*

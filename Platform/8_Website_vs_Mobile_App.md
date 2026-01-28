@@ -48,11 +48,11 @@ AUTO.AE provides two powerful ways to access the marketplace: the responsive **W
 3.  **Chatting:** It functions like WhatsApp, making it easier to negotiate on the fly.
 
 ## Related pages
-*   [Platform: AUTO.AE Mobile Apps Overview](./7_AUTO_AE_Mobile_Apps_Overview.md)
-*   [Platform: Notifications and Alerts](./9_Notifications_and_Alerts.md)
+*   [Platform: AUTO.AE Mobile Apps Overview](./7_AUTO_AE_Mobile_Apps_Overview)
+*   [Platform: Notifications and Alerts](./9_Notifications_and_Alerts)
 
 ## Next step
-*   [Configure your Notifications](./9_Notifications_and_Alerts.md)
+*   [Configure your Notifications](./9_Notifications_and_Alerts)
 
 ---
 *Last updated: January 2026*

@@ -61,11 +61,11 @@ Click on any car card to open the full listing page.
 *   **Typing too much:** Instead of "I want a red car", just type "Red". The search is keyword-based.
 
 ## Related pages
-*   [Buying: Filters Explained](./12_Filters_Explained.md)
-*   [Platform: AUTO.AE Marketplace Overview](../Platform/3_AUTO_AE_Marketplace_Overview.md)
+*   [Buying: Filters Explained](./12_Filters_Explained)
+*   [Platform: AUTO.AE Marketplace Overview](../Platform/3_AUTO_AE_Marketplace_Overview)
 
 ## Next step
-*   [Master the Advanced Filters](./12_Filters_Explained.md)
+*   [Master the Advanced Filters](./12_Filters_Explained)
 
 ---
 *Last updated: January 2026*
