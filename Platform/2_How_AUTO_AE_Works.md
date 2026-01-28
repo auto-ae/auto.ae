@@ -34,7 +34,7 @@ Start by selecting your main goal from the homepage:
 *   **Rent** if you need a temporary vehicle.
 *   **VIP Plates** if you are looking for a special license number.
 
-![Navigation Header](nav_header.png)
+![Navigation Header](./nav_header.png)
 *Figure 1: The main navigation bar allows quick access to all marketplaces.*
 
 ### 2. Search and Filter
