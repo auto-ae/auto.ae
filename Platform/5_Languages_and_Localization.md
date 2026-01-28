@@ -49,7 +49,8 @@ The official language of the GCC.
 
 ## Important tips
 *   **Automatic Translation:** When you select features like "Bluetooth" or "Cruise Control" while creating a listing in English, an Arabic user will see the Arabic equivalent automatically. You do not need to translate these checkboxes.
-*   **Description Field:** The free-text description is **NOT** auto-translated. We recommend writing the description in English, as it is the most widely understood common language in the UAE car market, or writing it in both languages if possible.
+*   **Description Field:** We recommend writing in English, as it is the "lingua franca" of the UAE car market.
+*   **Legal Documents:** RTA Tests and Sales Agreements are generated in a bilingual (Arabic/English) format by default. You do not need to translate them.
 
 ## Common mistakes
 *   **Writing Description in One Language Only:** If you write only in Arabic, you might miss 80% of expat buyers. English is safer if you choose only one.

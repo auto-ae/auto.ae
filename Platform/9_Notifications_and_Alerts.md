@@ -39,7 +39,7 @@ Perfect for when a car is slightly over your budget.
 
 ### 3. Chat and Activity
 *   **New Messages:** When a seller or buyer replies to your inquiry.
-*   **Listing Status:** For sellers, alerts when your listing is approved or expires.
+*   **RTA Updates:** Integrated alerts for traffic file updates (registration expiry) if you link your Traffic File.
 
 ## How to Configure
 You can manage your preferences to avoid spam.

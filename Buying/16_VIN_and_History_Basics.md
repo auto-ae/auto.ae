@@ -32,14 +32,16 @@ A car might look shiny on the outside but have a disastrous history underneath. 
 *   On **AUTO.AE**, sellers often list it in the "Specifications" section.
 
 ### 2. Check GCC History (Local Cars)
-If the car is "GCC Specs", check these official UAE databases:
-*   **EVG (Emirates Vehicle Gate):** Enter the VIN to see registered accidents in the UAE.
-*   **MOI (Ministry of Interior):** Similar database for accident history.
+If the car is "GCC Specs", use these official, free government portals:
+*   **MOI (Ministry of Interior):** Enter the VIN to see all recorded accidents across the UAE (except some older Dubai data).
+*   **EVG (Emirates Vehicle Gate):** Shows unpaid fines, insurance history, and impound status.
+*   **Abu Dhabi Police:** Essential if the car was ever registered in Abu Dhabi.
 
 ### 3. Check Import History (US/Canada/Japan)
-If the car is "North American Specs":
-*   **CARFAX or Autocheck:** You **MUST** purchase a report. It will show if the car was a taxi, police car, or flooded in a hurricane before coming to Dubai.
-*   *Tip:* Google the VIN. Often, you will find photos of the smashed car from the US auction house.
+If the car is **"North American Specs"**, assume it was crashed unless proven otherwise.
+*   **The Golden Rule:** 90% of US-spec cars in UAE are repaired salvage title (accident/flood).
+*   **Google the VIN:** You will likely find photos of the car in a US scrapyard (Copart/IAAI).
+*   **CARFAX:** Mandatory for peace of mind.
 
 ## Important tips
 *   **"Clean Title" Trap:** A car can have a "Clean Title" in the US but still have accidents. Read the full report.

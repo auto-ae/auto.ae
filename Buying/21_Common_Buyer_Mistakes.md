@@ -24,9 +24,13 @@ Even experienced car buyers make errors. In the excitement of finding a deal, it
 
 ## The Mistakes List
 
-### 1. Buying "Blind"
-Purchasing a car based only on photos because the price was low.
-*   *Reality:* Photos hide scratches, dents, and strange smells.
+### 1. Skipping the "Comprehensive Test"
+Relying only on the mandatory "Passing" test (which just checks safety) instead of paying ~450 AED for the "Comprehensive Test" at Tasjeel/Shamil.
+*   *Reality:* The basic test ignores engine health, repainted panels, and existing accident damage. Always pay for the full check.
+
+### 2. Buying "American Specs" Blindly
+Thinking you got a deal on a cheap US-Spec Mercedes.
+*   *Reality:* 95% of US imports in the low-price bracket are "Salvage Title" cars repaired cheaply. Always check the VIN.
 
 ### 2. Ignoring "Export" Status
 Buying a car listed as "For Export" thinking you can drive it in the UAE.

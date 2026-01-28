@@ -55,8 +55,13 @@ Once you find a match, use the contact buttons:
 *   **Chat:** Use the internal AUTO.AE chat system.
 
 ### 5. Inspect and Transact
-Arrange a meeting to inspect the car or sign the rental agreement.
-*   *Note:* The final payment and contract signing happen offline between you and the seller/dealer. AUTO.AE facilitates the connection but does not process the bank transfer for car sales.
+Arrange a meeting to inspect the car.
+*   **The Golden Rule:** Meet at a safe public place or an RTA Center.
+*   **The Transfer:** Finalize the deal at an authorized center (Tasjeel, Shamil, or Barometer).
+*   **Payment:** Hand over the cash/cheque only **after** the RTA officer confirms the transfer is ready to proceed.
+
+### 6. Registration
+To use the full features (like " Favorites" or "Listing a Car"), sign up using your **UAEMobile Number**. Verification is instant via OTP.
 
 
 

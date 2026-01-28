@@ -33,10 +33,14 @@ Before you create an offer, look at 5 other similar cars on AUTO.AE.
 *   *Target Car:* Listed at 58,000 AED.
 *   *Conclusion:* You have room to negotiate down to ~53,000.
 
-### 2. Don't Discuss Price Immediately
-Never start the chat with "What is your last price?". It shows you are just a tire-kicker.
-*   *Better approach:* "Hi, I'm interested. Is the service history full? When can I see it?"
-*   Discuss price *after* seeing the car, or at least after establishing serious interest.
+### 2. The "Last Price" Culture
+In the UAE, asking "What is your last price?" is standard, but doing it too early is ineffective.
+*   *Bad:* Sending "Last Price?" as the very first message.
+*   *Good:* Inspecting the car, finding a flaw, and then saying: "I like the car, but it needs tires. What is your best price for cash today?"
+
+### 3. The "Tasjeel" Negotiation
+Often, the final negotiation happens **at the testing center**.
+*   If the RTA test result shows "Chassis Minor" or "Oil Leak", use this official report to ask for a 1,000-2,000 AED discount on the spot.
 
 ### 3. Use Flaws as Leverage
 During the inspection (or after seeing detailed photos), point out valid issues to justify your lower offer:

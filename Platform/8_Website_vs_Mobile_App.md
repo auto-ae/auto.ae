@@ -29,7 +29,8 @@ AUTO.AE provides two powerful ways to access the marketplace: the responsive **W
 | :--- | :---: | :---: |
 | **Browsing Listings** | ✅ Excellent for comparing multiple tabs | ✅ Fast, infinite scroll |
 | **Creating Listings** | ✅ Good for bulk uploads | ✅ **Best** (Use phone camera) |
-| **Notifications** | ❌ Email only | ✅ **Instant Push Alerts** |
+| **Biometric Login** | ❌ Password only | ✅ **FaceID / TouchID** |
+| **Notifications** | ❌ Email only | ✅ **Price Drops & Chats** |
 | **Chat** | ✅ Standard | ✅ Real-time interface |
 | **Dark Mode** | ❌ Browser dependent | ✅ Native support |
 | **Speed** | ⚠️ Depends on internet | ✅ Optimized caching |

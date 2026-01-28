@@ -49,8 +49,8 @@ If you are viewing a car located in Dubai (priced in AED) but you have selected 
 *   **Hidden Costs:** The listed price is for the car itself. Registration, insurance, and export tests are extra.
 
 ## Common mistakes
-*   **Assuming Exchange Rates are Fixed:** While GCC currencies are stable, bank transfer fees can affect the final amount you pay.
-*   **Forgetting VAT:** If buying from a showroom for export, you might be able to claim VAT back, but sticking to the listed price calculation is safer for budgeting.
+*   **Assuming Exchange Rates are Fixed:** Bank transfer fees and "We Buy/Sell" rates differ. Always use AED cash or Manager's Cheque for the final deal to avoid losing 3-5% in conversion.
+*   **Forgetting VAT:** If buying from a showroom for export, you *can* claim VAT back, but only if you ship the car via an official freight forwarder.
 
 ## Related pages
 *   [Platform: Supported GCC Countries](4_Supported_GCC_Countries.md)

@@ -36,10 +36,13 @@ You should never buy a used car without inspecting it in person (or hiring a pro
 *   [ ] **Fluid Levels:** Check oil and coolant. Low levels suggest neglect.
 *   [ ] **Belts:** Are the rubber belts cracked or frayed?
 
-### 3. Interior & Electronics
-*   [ ] **AC:** Turn it on MAX immediately. It should be freezing cold within 1 minute. **Critical in GCC.**
-*   [ ] **Windows:** Test all 4 windows up and down.
-*   [ ] **Smell:** A damp/mildew smell indicates past flooding. A heavy perfume smell might be masking mold.
+### 3. Interior & Electronics (GCC Critical)
+*   [ ] **AC Analysis:** Do not just turn it on. Park in the sun, set it to MAX, and wait 5 minutes. If it's not freezing at noon, the compressor is weak.
+*   [ ] **Headliner:** Check the roof fabric. Heat causes the glue to fail, making the fabric sag (common in older European cars).
+
+### 4. Tires (Legal Limit)
+*   [ ] **Date Check:** In UAE, tires older than **5 years** fail the RTA test automatically. Check the 4-digit date code (e.g., 2521).
+*   [ ] **Cracks:** Dry rot happens fast here. Look for tiny cracks in the sidewall.
 
 ### 4. Start Up
 *   [ ] **Cold Start:** Ask the seller not to warm up the car before you arrive. Listen for rattling noises when starting cold.
