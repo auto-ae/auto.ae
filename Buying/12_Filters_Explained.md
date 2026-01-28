@@ -50,8 +50,8 @@ With thousands of cars for sale, finding the perfect one requires powerful tools
 
 ## Visual example
 
-![Rolls-Royce Cullinan Real Listing](Buying/assets/listing_main.jpg)
-*Figure 1: Actual listing from AUTO.AE showing the Rolls-Royce Cullinan (Price: 1.58M AED).*
+![Filters Sidebar Example](Buying/assets/page12_filters.png)
+*Figure 1: The detailed filter sidebar on the search results page.*
 
 ## Important tips
 *   **Don't Over-filter:** If you select "Red color" + "2023" + "Specific Trim", you might get 0 results. Start broad and narrow down.
